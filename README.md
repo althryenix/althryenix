@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br/>
-  <a href="mailto:tameralkim@gmail.com?bcc=tameralkim@yahoo.com&subject=Hello%20from%20your%20GitHub%20link">
+  <a href="mailto:tameralkim@gmail.com?bcc=tameralkim@yahoo.com&subject=Hello%20from%20your%20GitHub%20page">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
